@@ -44,7 +44,7 @@ class Post extends Eloquent
   /**
      * Meta data relationship
      *
-     * @return Corcel\PostMetaCollection
+     * @return Illuminate\Database\Eloquent\Collection
      */
     public function meta()
     {
