@@ -1,3 +1,4 @@
 src/Legacy/
 vendor/
 composer.lock
+index.php
